@@ -1,7 +1,5 @@
 ![NYU Tandon Logo](Day9/tandon_logo.png)
-## METRO CARDS 
 
-https://tinyurl.com/K12MetroCard
 
 ## Instructor contact info:  
 https://github.com/VidushB/2023MLSummerSchool/blob/main/Instructor_Contact_Info.txt  
