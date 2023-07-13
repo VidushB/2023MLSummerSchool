@@ -1,6 +1,7 @@
 ![NYU Tandon Logo](Day9/tandon_logo.png)
 
-
+## Project Groups
+https://docs.google.com/spreadsheets/d/1qpMcVpkididZxkFKz45VDrEn10e1_1krq-GRWUb8qEM/edit?usp=sharing
 ## Instructor contact info:  
 https://github.com/VidushB/2023MLSummerSchool/blob/main/Instructor_Contact_Info.txt  
 
