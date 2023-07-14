@@ -1,5 +1,8 @@
 ![NYU Tandon Logo](Day9/tandon_logo.png)
 
+## Mini Project Slides Upload
+[Link](https://drive.google.com/drive/folders/19DcLxzVVYJl6a-UefgM4evmygCn8EqEq?usp=sharing)
+
 ## Project Groups
 https://docs.google.com/spreadsheets/d/1GBXE4SWDiAU31cGcblmzUR1w1BQybFkOoziWxV7gbPM/edit?skip_itp2_check=true#gid=0
 ## Instructor contact info:  
